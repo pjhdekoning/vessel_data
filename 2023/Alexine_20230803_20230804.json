@@ -1,0 +1,10 @@
+{
+  "Alexine": {
+    "id": "ALEXINE-IMO-0-MMSI-244650698",
+    "start": "2023-08-03",
+    "end": "2023-08-04",
+    "color_rgba": {"red": 1.0, "green": 0.0, "blue": 0.0, "alpha": 0.75},
+    "point_size": 2.5,
+    "line_width": 2.0
+  }
+}
